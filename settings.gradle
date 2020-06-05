@@ -1,0 +1,6 @@
+rootProject.name = 'cloud'
+
+include 'zuul'
+include 'simple-rest-client'
+include 'feign'
+include 'eureka'
